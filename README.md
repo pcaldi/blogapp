@@ -8,8 +8,8 @@
                                                                      
 <h1 align="center">:file_cabinet: Postapp</h1>  
 
-<p align="center>
-  <img src="src/assets/to-readme/postapp.gif/>
+<p align="center">
+  <img src="src/assets/to-readme/postapp.gif"/>
 </p>
                                                              
 
@@ -30,23 +30,7 @@ Mussum Ipsum, cacilds vidis litro abertis. Atirei o pau no gatis, per gatis num 
 
 ```bash
 # Clone o Repositório
-https://github.com/pcaldi/ignite-design-system.git
-```
-
-```bash
-# Instale as Dependências
-yarn
-```
-
-```bash
-# Para Abrir o Storybook
-yarn storybook
-```
-
-```bash
-# Para Executar o Projeto
-yarn dev
-```
+...
 ## 📲 Contato
 
 Entre em contato comigo por e-mail ou pelo meu Linkedin:
