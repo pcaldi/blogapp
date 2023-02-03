@@ -8,8 +8,8 @@
                                                                      
 <h1 align="center">:file_cabinet: Postapp</h1>  
 
-<p align="center">
-  <img src="src/assets/to-readme/postapp.gif"/>
+<p  align="center">
+  <img height="600" src="src/assets/to-readme/postapp.gif"/>
 </p>
                                                              
 
