@@ -24,13 +24,25 @@ Mussum Ipsum, cacilds vidis litro abertis. Atirei o pau no gatis, per gatis num 
 * [Typescript](https://www.typescriptlang.org/)
 * [React Native Reanimated](https://docs.expo.dev/versions/latest/sdk/reanimated/)
 
-
-
 ## :rocket: Rodando o projeto
 
 ```bash
-# Clone o Repositório
-...
+# Execute o comando git clone para realizar o clone do repositório
+$ git clone https://github.com/pcaldi/postapp.git
+# ou execute
+$ gh repo clone pcaldi/postapp
+# Entre na pasta do repositório clonado
+$ cd postapp
+```
+
+Dependências e inicialização:
+
+```bash
+## instalar dependências
+$ npx expo install
+# inicializar expo
+$ npx expo start
+```
 ## 📲 Contato
 
 Entre em contato comigo por e-mail ou pelo meu Linkedin:
@@ -46,3 +58,5 @@ Entre em contato comigo por e-mail ou pelo meu Linkedin:
 </a>
 
 Esse projeto possui [licença MIT](./LICENSE).
+
+
